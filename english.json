@@ -21,40 +21,180 @@
         }
     ],
     "skills": [
-        {"name": "python", "title": "Python", "placeholder": "", "description": ""},
-        {"name": "javascript", "title": "Javascript", "placeholder": "", "description": ""},
-        {"name": "c++", "title": "C++", "placeholder": "", "description": ""},
-        {"name": "pcb_design", "title": "PCB Design", "placeholder": "", "description": ""},
-        {"name": "sql", "title": "SQL", "placeholder": "", "description": ""},
-        {"name": "mongo", "title": "MongoDB", "placeholder": "", "description": ""},
-        {"name": "github", "title": "Github", "placeholder": "", "description": ""},
-        {"name": "piano", "title": "Piano", "placeholder": "", "description": ""},
-        {"name": "chess", "title": "Chess", "placeholder": "", "description": ""},
-        {"name": "fastapi", "title": "FastAPI", "placeholder": "", "description": ""},
-        {"name": "opencv", "title": "OpenCV", "placeholder": "", "description": ""},
-        {"name": "django", "title": "Django", "placeholder": "", "description": ""},
-        {"name": "numpy", "title": "Numpy", "placeholder": "", "description": ""},
-        {"name": "tensorflow", "title": "Tensorflow", "placeholder": "", "description": ""},
-        {"name": "pandas", "title": "Pandas", "placeholder": "", "description": ""},
-        {"name": "reactjs", "title": "ReactJS", "placeholder": "", "description": ""},
-        {"name": "vuejs", "title": "VueJS", "placeholder": "", "description": ""},
-        {"name": "leaflet", "title": "Leaflet", "placeholder": "", "description": ""},
-        {"name": "threejs", "title": "ThreeJS", "placeholder": "", "description": ""},
-        {"name": "arduino", "title": "Arduino", "placeholder": "", "description": ""},
-        {"name": "eagle", "title": "Eagle", "placeholder": "", "description": ""},
-        {"name": "xbox", "title": "Xbox", "placeholder": "", "description": ""},
-        {"name": "read", "title": "Read", "placeholder": "", "description": ""},
-        {"name": "dogs", "title": "Dogs", "placeholder": "", "description": ""},
-        {"name": "plants", "title": "Plants", "placeholder": "", "description": ""},
-        {"name": "puzzle", "title": "Puzzle", "placeholder": "", "description": ""},
-        {"name": "rubik", "title": "Rubik cube", "placeholder": "", "description": ""},
-        {"name": "ec2", "title": "AWS EC2", "placeholder": "", "description": ""},
-        {"name": "s3", "title": "AWS S3", "placeholder": "", "description": ""},
-        {"name": "lambda", "title": "AWS Lambda", "placeholder": "", "description": ""},
-        {"name": "poo", "title": "POO", "placeholder": "", "description": ""},
-        {"name": "solid", "title": "SOLID", "placeholder": "", "description": ""},
-        {"name": "linux", "title": "Linux", "placeholder": "", "description": ""},
-        {"name": "ssh", "title": "SSH", "placeholder": "", "description": ""},
-        {"name": "patterns", "title": "Design patterns", "placeholder": "", "description": ""}
+        {
+            "name": "python",
+            "title": "Python",
+            "description": "Python is my main programming language."
+        },
+        {
+            "name": "javascript",
+            "title": "Javascript",
+            "description": "I know javascript principles and use it to build functionallities on web apps."
+        },
+        {
+            "name": "c++",
+            "title": "C++",
+            "description": "Programming with C and C++ on microcontrollers."
+        },
+        {
+            "name": "pcb_design",
+            "title": "PCB Design",
+            "description": "Design of schematics and PCBs of projects."
+        },
+        {
+            "name": "sql",
+            "title": "SQL",
+            "description": "SQL language and usage on MySQL, MariaDB and SQLite."
+        },
+        {
+            "name": "mongo",
+            "title": "MongoDB",
+            "description": "Usage of NoSQL databases with MongoDB."
+        },
+        {
+            "name": "github",
+            "title": "Github",
+            "description": "All project is storaged on GitHub and uses git."
+        },
+        {
+            "name": "piano",
+            "title": "Piano",
+            "description": "I am learning to play the piano."
+        },
+        {
+            "name": "arduino",
+            "title": "Arduino",
+            "description": "Usage of Arduino products to quick prototyping and develop."
+        },
+        {
+            "name": "eagle",
+            "title": "Eagle",
+            "description": "Eagle is used to design schematics and boards of hardware."
+        },
+        {
+            "name": "linux",
+            "title": "Linux",
+            "description": "Long time of usage Linux computers, Linux Mint user right now."
+        },
+        {
+            "name": "chess",
+            "title": "Chess",
+            "description": "Learning to play Chess."
+        },
+        {
+            "name": "fastapi",
+            "title": "FastAPI",
+            "description": "Many projects using API from FastAPI."
+        },
+        {
+            "name": "opencv",
+            "title": "OpenCV",
+            "description": "Many projects using Python library to process images."
+        },
+        {
+            "name": "django",
+            "title": "Django",
+            "description": "Usage of this python library to build robusts APIs."
+        },
+        {
+            "name": "numpy",
+            "title": "Numpy",
+            "description": "Numeric library for Python."
+        },
+        {
+            "name": "tensorflow",
+            "title": "Tensorflow",
+            "description": "Machine Learning and Artificial Intelligence library for Python."
+        },
+        {
+            "name": "pandas",
+            "title": "Pandas",
+            "description": "Pandas library of Python to analice data."
+        },
+        {
+            "name": "reactjs",
+            "title": "ReactJS",
+            "description": "ReactJS to show components and pages."
+        },
+        {
+            "name": "vuejs",
+            "title": "VueJS",
+            "description": "VueJS to show friendly user interfaces."
+        },
+        {
+            "name": "leaflet",
+            "title": "Leaflet",
+            "description": "Leaflet and georefenciation on web applications."
+        },
+        {
+            "name": "threejs",
+            "title": "ThreeJS",
+            "description": "ThreeJS projects to show 3D environments."
+        },
+        {
+            "name": "xbox",
+            "title": "Xbox",
+            "description": "Xbox team gamer."
+        },
+        {
+            "name": "read",
+            "title": "Read",
+            "description": "Many book reader."
+        },
+        {
+            "name": "dogs",
+            "title": "Dogs",
+            "description": "I have two dogs."
+        },
+        {
+            "name": "plants",
+            "title": "Plants",
+            "description": "I love my plants."
+        },
+        {
+            "name": "puzzle",
+            "title": "Puzzle",
+            "description": "Puzzles maker."
+        },
+        {
+            "name": "rubik",
+            "title": "Rubik cube",
+            "description": "Rubik cube is my favorite puzzle."
+        },
+        {
+            "name": "ec2",
+            "title": "AWS EC2",
+            "description": "AWS EC2 server configuration and maintenance."
+        },
+        {
+            "name": "s3",
+            "title": "AWS S3",
+            "description": "AWS S3 storage."
+        },
+        {
+            "name": "lambda",
+            "title": "AWS Lambda",
+            "description": "AWS Lambda funcions."
+        },
+        {
+            "name": "poo",
+            "title": "POO",
+            "description": "Orientation to objects."
+        },
+        {
+            "name": "solid",
+            "title": "SOLID",
+            "description": "Appling solid principles on code develop."
+        },
+        {
+            "name": "bash",
+            "title": "Bash",
+            "description": "A lot of linux bash commands."
+        },
+        {
+            "name": "patterns",
+            "title": "Design patterns",
+            "description": "The design pattern is applied in the code develop."
+        }
     ]
 }

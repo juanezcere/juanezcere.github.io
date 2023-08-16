@@ -1,0 +1,210 @@
+{
+    "name": "Juan Esteban García Cardona",
+    "dark_picture": "/dark_photo.jpg",
+    "light_picture": "/light_photo.jpg",
+    "description": "Ingénieur électricien avec plus de 15 ans d'expérience dans le développement de projets hardware et software de qualité.",
+    "networks": [
+        {
+            "name": "github",
+            "title": "GitHub",
+            "href": "https://github.com/juanezcere"
+        },
+        {
+            "name": "email",
+            "title": "Email",
+            "href": "mailto: juanezcere@gmail.com"
+        },
+        {
+            "name": "linkedin",
+            "title": "LinkedIn",
+            "href": "https://www.linkedin.com/in/juan-esteban-garcia-cardona-221222238/"
+        }
+    ],
+    "skills": [
+        {
+            "name": "python",
+            "title": "Python",
+            "description": "Python est mon langage de programmation principal."
+        },
+        {
+            "name": "javascript",
+            "title": "JavaScript",
+            "description": "Je connais les principes de JavaScript et je l'utilise pour créer des fonctionnalités dans les applications web."
+        },
+        {
+            "name": "c++",
+            "title": "C++",
+            "description": "Programmation avec C et C++ sur microcontrôleurs."
+        },
+        {
+            "name": "pcb_design",
+            "title": "Conception de PCB",
+            "description": "Conception de schémas et PCB de projets."
+        },
+        {
+            "name": "sql",
+            "title": "SQL",
+            "description": "Langage SQL et son utilisation sur MySQL, MariaDB et SQLite."
+        },
+        {
+            "name": "mongo",
+            "title": "MongoDB",
+            "description": "Utilisation de bases de données NoSQL avec MongoDB."
+        },
+        {
+            "name": "github",
+            "title": "GitHub",
+            "description": "Tous les projets sont stockés sur GitHub et utilisent git."
+        },
+        {
+            "name": "piano",
+            "title": "Piano",
+            "description": "J'apprends à jouer du piano."
+        },
+        {
+            "name": "arduino",
+            "title": "Arduino",
+            "description": "Utilisation des produits Arduino pour une prototypage rapide et un développement."
+        },
+        {
+            "name": "eagle",
+            "title": "Eagle",
+            "description": "Eagle est utilisé pour concevoir des schémas et des cartes de circuits électroniques."
+        },
+        {
+            "name": "linux",
+            "title": "Linux",
+            "description": "Longue utilisation de computers Linux, utilisateur de Linux Mint en ce moment."
+        },
+        {
+            "name": "chess",
+            "title": "Échecs",
+            "description": "Apprenant à jouer aux échecs."
+        },
+        {
+            "name": "fastapi",
+            "title": "FastAPI",
+            "description": "De nombreux projets utilisant l'API de FastAPI."
+        },
+        {
+            "name": "opencv",
+            "title": "OpenCV",
+            "description": "De nombreux projets utilisant la bibliothèque Python pour traiter les images."
+        },
+        {
+            "name": "django",
+            "title": "Django",
+            "description": "Utilisation de cette bibliothèque python pour construire des API robustes."
+        },
+        {
+            "name": "numpy",
+            "title": "Numpy",
+            "description": "Bibliothèque numérique pour Python."
+        },
+        {
+            "name": "tensorflow",
+            "title": "TensorFlow",
+            "description": "Bibliothèque d'apprentissage automatique et d'intelligence artificielle pour Python."
+        },
+        {
+            "name": "pandas",
+            "title": "Pandas",
+            "description": "Bibliothèque Python pour analyser des données."
+        },
+        {
+            "name": "reactjs",
+            "title": "ReactJS",
+            "description": "ReactJS pour afficher des composants et des pages."
+        },
+        {
+            "name": "vuejs",
+            "title": "VueJS",
+            "description": "VueJS pour afficher des interfaces utilisateur conviviales."
+        },
+        {
+            "name": "leaflet",
+            "title": "Leaflet",
+            "description": "Leaflet et géoréférencement dans les applications web."
+        },
+        {
+            "name": "threejs",
+            "title": "ThreeJS",
+            "description": "Projets ThreeJS pour afficher des environnements 3D."
+        },
+        {
+            "name": "xbox",
+            "title": "Xbox",
+            "description": "Joueur de l'équipe Xbox."
+        },
+        {
+            "name": "read",
+            "title": "Lire",
+            "description": "Grand lecteur de livres."
+        },
+        {
+            "name": "xbox",
+            "title": "Xbox",
+            "description": "Joueur de l'équipe Xbox."
+        },
+        {
+            "name": "read",
+            "title": "Lire",
+            "description": "Grand lecteur de livres."
+        },
+        {
+            "name": "dogs",
+            "title": "Chiens",
+            "description": "J'ai deux chiens."
+        },
+        {
+            "name": "plants",
+            "title": "Plantes",
+            "description": "J'aime mes plantes."
+        },
+        {
+            "name": "puzzle",
+            "title": "Puzzle",
+            "description": "Créateur de puzzles."
+        },
+        {
+            "name": "rubik",
+            "title": "Cube de Rubik",
+            "description": "Le cube de Rubik est mon puzzle préféré."
+        },
+        {
+            "name": "ec2",
+            "title": "AWS EC2",
+            "description": "Configuration et maintenance des serveurs AWS EC2."
+        },
+        {
+            "name": "s3",
+            "title": "AWS S3",
+            "description": "Stockage AWS S3."
+        },
+        {
+            "name": "lambda",
+            "title": "AWS Lambda",
+            "description": "Fonctions AWS Lambda."
+        },
+        {
+            "name": "poo",
+            "title": "POO",
+            "description": "Orientation objet."
+        },
+        {
+            "name": "solid",
+            "title": "SOLID",
+            "description": "Application des principes SOLID au développement de code."
+        },
+        {
+            "name": "bash",
+            "title": "Bash",
+            "description": "Un grand nombre de commandes bash Linux."
+        },
+        {
+            "name": "patterns",
+            "title": "Modèles de conception",
+            "description": "Les modèles de conception sont appliqués au développement de code."
+        }
+    ]
+}
