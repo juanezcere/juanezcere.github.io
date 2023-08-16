@@ -1,0 +1,60 @@
+{
+    "name": "Juan Esteban García Cardona",
+    "dark_picture": "/dark_photo.jpg",
+    "light_picture": "/light_photo.jpg",
+    "description": "Electronical engineer with more of 15 years developing hardware and software projects with quality.",
+    "networks": [
+        {
+            "name": "github",
+            "title": "GitHub",
+            "href": "https://github.com/juanezcere"
+        },
+        {
+            "name": "email",
+            "title": "Email",
+            "href": "mailto: juanezcere@gmail.com"
+        },
+        {
+            "name": "linkedin",
+            "title": "LinkedIn",
+            "href": "https://www.linkedin.com/in/juan-esteban-garcia-cardona-221222238/"
+        }
+    ],
+    "skills": [
+        {"name": "python", "title": "Python", "placeholder": "", "description": ""},
+        {"name": "javascript", "title": "Javascript", "placeholder": "", "description": ""},
+        {"name": "c++", "title": "C++", "placeholder": "", "description": ""},
+        {"name": "pcb_design", "title": "PCB Design", "placeholder": "", "description": ""},
+        {"name": "sql", "title": "SQL", "placeholder": "", "description": ""},
+        {"name": "mongo", "title": "MongoDB", "placeholder": "", "description": ""},
+        {"name": "github", "title": "Github", "placeholder": "", "description": ""},
+        {"name": "piano", "title": "Piano", "placeholder": "", "description": ""},
+        {"name": "chess", "title": "Chess", "placeholder": "", "description": ""},
+        {"name": "fastapi", "title": "FastAPI", "placeholder": "", "description": ""},
+        {"name": "opencv", "title": "OpenCV", "placeholder": "", "description": ""},
+        {"name": "django", "title": "Django", "placeholder": "", "description": ""},
+        {"name": "numpy", "title": "Numpy", "placeholder": "", "description": ""},
+        {"name": "tensorflow", "title": "Tensorflow", "placeholder": "", "description": ""},
+        {"name": "pandas", "title": "Pandas", "placeholder": "", "description": ""},
+        {"name": "reactjs", "title": "ReactJS", "placeholder": "", "description": ""},
+        {"name": "vuejs", "title": "VueJS", "placeholder": "", "description": ""},
+        {"name": "leaflet", "title": "Leaflet", "placeholder": "", "description": ""},
+        {"name": "threejs", "title": "ThreeJS", "placeholder": "", "description": ""},
+        {"name": "arduino", "title": "Arduino", "placeholder": "", "description": ""},
+        {"name": "eagle", "title": "Eagle", "placeholder": "", "description": ""},
+        {"name": "xbox", "title": "Xbox", "placeholder": "", "description": ""},
+        {"name": "read", "title": "Read", "placeholder": "", "description": ""},
+        {"name": "dogs", "title": "Dogs", "placeholder": "", "description": ""},
+        {"name": "plants", "title": "Plants", "placeholder": "", "description": ""},
+        {"name": "puzzle", "title": "Puzzle", "placeholder": "", "description": ""},
+        {"name": "rubik", "title": "Rubik cube", "placeholder": "", "description": ""},
+        {"name": "ec2", "title": "AWS EC2", "placeholder": "", "description": ""},
+        {"name": "s3", "title": "AWS S3", "placeholder": "", "description": ""},
+        {"name": "lambda", "title": "AWS Lambda", "placeholder": "", "description": ""},
+        {"name": "poo", "title": "POO", "placeholder": "", "description": ""},
+        {"name": "solid", "title": "SOLID", "placeholder": "", "description": ""},
+        {"name": "linux", "title": "Linux", "placeholder": "", "description": ""},
+        {"name": "ssh", "title": "SSH", "placeholder": "", "description": ""},
+        {"name": "patterns", "title": "Design patterns", "placeholder": "", "description": ""}
+    ]
+}

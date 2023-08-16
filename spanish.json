@@ -1,0 +1,55 @@
+{
+    "name": "Juan Esteban García Cardona",
+    "dark_picture": "/dark_photo.jpg",
+    "light_picture": "/light_photo.jpg",
+    "description": "Ingeniero electrónico con varios años de experiencia en el desarrollo de hardware y software de calidad.",
+    "networks": [
+        {
+            "name": "github",
+            "title": "GitHub",
+            "href": "https://github.com/juanezcere"
+        },
+        {
+            "name": "email",
+            "title": "Email",
+            "href": "mailto: juanezcere@gmail.com"
+        },
+        {
+            "name": "linkedin",
+            "title": "LinkedIn",
+            "href": "https://www.linkedin.com/in/juan-esteban-garcia-cardona-221222238/"
+        }
+    ],
+    "skills": [
+        {
+            "id": "",
+            "title": "",
+            "icon": "",
+            "description": ""
+        },
+        {
+            "id": "",
+            "title": "",
+            "icon": "",
+            "description": ""
+        },
+        {
+            "id": "",
+            "title": "",
+            "icon": "",
+            "description": ""
+        },
+        {
+            "id": "",
+            "title": "",
+            "icon": "",
+            "description": ""
+        },
+        {
+            "id": "",
+            "title": "",
+            "icon": "",
+            "description": ""
+        }
+    ]
+}
