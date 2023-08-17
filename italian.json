@@ -196,5 +196,13 @@
             "title": "Pattern di progettazione",
             "description": "I pattern di progettazione vengono applicati nello sviluppo del codice."
         }
+    ],
+    "aposts":[
+        {"name": "taclla", "title": "Taclla","icon": "/taclla_brand.png", "href": "https://www.taclla.com", "description": "Integrazione della piattaforma web con mappe e risorse per migliorare i processi."},
+        {"name": "pimedica", "title": "PiMedica","icon": "/pimedica_brand.webp", "href": "https://www.pimedica.com", "description": "Sviluppare hardware e software su prodotti medicali."},
+        {"name": "k2k", "title": "K2K Soluciones","icon": "/k2k_brand.png", "href": "https://www.k2ksoluciones.com", "description": "Sviluppo software per la gestione dei processi interni."}
+    ],
+    "projects": [
+        {"name": "", "title": "", "image": "", "href": "", "description": ""}
     ]
 }

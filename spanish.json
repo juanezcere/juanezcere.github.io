@@ -196,5 +196,13 @@
             "title": "Patrones de diseño",
             "description": "Los patrones de diseño se aplican en el desarrollo de código."
         }
+    ],
+    "aposts":[
+        {"name": "taclla", "title": "Taclla","icon": "/taclla_brand.png", "href": "https://www.taclla.com", "description": "Integración de plataforma web con mapas y recursos para mejorar los procesos."},
+        {"name": "pimedica", "title": "PiMedica","icon": "/pimedica_brand.webp", "href": "https://www.pimedica.com", "description": "Desarrollar hardware y software sobre productos médicos."},
+        {"name": "k2k", "title": "K2K Soluciones","icon": "/k2k_brand.png", "href": "https://www.k2ksoluciones.com", "description": "Desarrollo de software para gestionar los procesos internos."}
+    ],
+    "projects": [
+        {"name": "", "title": "", "image": "", "href": "", "description": ""}
     ]
 }

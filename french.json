@@ -206,5 +206,13 @@
             "title": "Modèles de conception",
             "description": "Les modèles de conception sont appliqués au développement de code."
         }
+    ],
+    "aposts":[
+        {"name": "taclla", "title": "Taclla","icon": "/taclla_brand.png", "href": "https://www.taclla.com", "description": "Intégration de la plate-forme Web avec des cartes et des ressources pour améliorer les processus."},
+        {"name": "pimedica", "title": "PiMedica","icon": "/pimedica_brand.webp", "href": "https://www.pimedica.com", "description": "Développer du matériel et des logiciels sur des produits médicaux."},
+        {"name": "k2k", "title": "K2K Soluciones","icon": "/k2k_brand.png", "href": "https://www.k2ksoluciones.com", "description": "Développement de logiciels pour gérer les processus internes."}
+    ],
+    "projects": [
+        {"name": "", "title": "", "image": "", "href": "", "description": ""}
     ]
 }

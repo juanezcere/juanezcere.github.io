@@ -196,5 +196,13 @@
             "title": "Design patterns",
             "description": "Das Designmuster wird in der Codeentwicklung angewendet."
         }
+    ],
+    "aposts":[
+        {"name": "taclla", "title": "Taclla","icon": "/taclla_brand.png", "href": "https://www.taclla.com", "description": "Integratie van webplatform met kaarten en bronnen om de processen te verbeteren."},
+        {"name": "pimedica", "title": "PiMedica","icon": "/pimedica_brand.webp", "href": "https://www.pimedica.com", "description": "Ontwikkel hard- en software voor medische producten."},
+        {"name": "k2k", "title": "K2K Soluciones","icon": "/k2k_brand.png", "href": "https://www.k2ksoluciones.com", "description": "Software ontwikkeling om de interne processen te beheersen."}
+    ],
+    "projects": [
+        {"name": "", "title": "", "image": "", "href": "", "description": ""}
     ]
 }

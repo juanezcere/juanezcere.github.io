@@ -196,5 +196,28 @@
             "title": "Design patterns",
             "description": "The design pattern is applied in the code develop."
         }
-    ]
+    ],
+    "aposts":[
+        {"name": "taclla", "title": "Taclla","icon": "/taclla_brand.png", "href": "https://www.taclla.com", "description": "Integration of web platform with maps and resources to improve the processes."},
+        {"name": "pimedica", "title": "PiMedica","icon": "/pimedica_brand.webp", "href": "https://www.pimedica.com", "description": "Develop hardware and software on medical products."},
+        {"name": "k2k", "title": "K2K Soluciones","icon": "/k2k_brand.png", "href": "https://www.k2ksoluciones.com", "description": "Software development to manage the internal processes."}
+    ],
+    "projects": [
+        {"name": "", "title": "", "image": "", "href": "", "description": ""},
+        {"name": "", "title": "", "image": "", "href": "", "description": ""},
+        {"name": "", "title": "", "image": "", "href": "", "description": ""},
+        {"name": "", "title": "", "image": "", "href": "", "description": ""},
+        {"name": "", "title": "", "image": "", "href": "", "description": ""},
+        {"name": "", "title": "", "image": "", "href": "", "description": ""},
+        {"name": "", "title": "", "image": "", "href": "", "description": ""}
+    ],
+    "about": [
+        {"name": "profesion", "title": "Profesional", "description": "More of fifteen year developing software and hardware of comsumption products in Medical, Agro and Telecomunication fields."},
+        {"name": "study", "title": "Study", "description": "Electronical engineer from ITM, with a great experience to develop software thanks to his logic skills and curiosity."},
+        {"name": "skills", "title": "Skills", "description": "Every feel that my action field is on develop, "},
+        {"name": "personal", "title": "Personal", "description": "Borned on Medellín - Colombia with a lot of skills, Dogs and plants lover. Entisiast to learn something and Xbox player."}
+    ],
+    "language": {
+
+    }
 }
