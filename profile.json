@@ -1,0 +1,54 @@
+{
+  "name": "Juan Esteban García Cardona",
+  "badge": "DEV",
+  "avatarUrls": {
+    "light": "/images/profile/light.jpg",
+    "dark": "/images/profile/dark.jpg"
+  },
+  "stack": [
+    "React",
+    "TypeScript",
+    "Vite",
+    "Python",
+    "C",
+    "C++",
+    "JavaScript",
+    "Vue.js",
+    "REST API",
+    "SOAP",
+    "Embedded Systems"
+  ],
+  "email": "juanezcere@gmail.com",
+  "socialLinks": [
+    { "id": "page", "label": "Page", "url": "https://juanezcere.github.io/" },
+    { "id": "github", "label": "GitHub", "url": "https://github.com/juanezcere" },
+    {
+      "id": "linkedin",
+      "label": "LinkedIn",
+      "url": "https://www.linkedin.com/in/juan-esteban-garcia-cardona-221222238/"
+    },
+    { "id": "youtube", "label": "YouTube", "url": "https://www.youtube.com/@MrJuanezzz" }
+  ],
+  "translations": {
+    "es": {
+      "title": "Ingeniero Electrónico & Desarrollador de Software",
+      "bio": "Ingeniero electrónico con amplia experiencia en desarrollo y diseño de hardware y software, con enfoque en sistemas embebidos y algoritmos."
+    },
+    "en": {
+      "title": "Electronics Engineer & Software Developer",
+      "bio": "Electronics engineer with extensive experience in hardware and software development and design, focused on embedded systems and algorithms."
+    },
+    "pt": {
+      "title": "Engenheiro Eletrônico & Desenvolvedor de Software",
+      "bio": "Engenheiro eletrônico com ampla experiência em desenvolvimento e design de hardware e software, com foco em sistemas embarcados e algoritmos."
+    },
+    "fr": {
+      "title": "Ingénieur Électronique & Développeur Logiciel",
+      "bio": "Ingénieur électronique disposant d'une vaste expérience en développement et conception de matériel et de logiciels, spécialisé dans les systèmes embarqués et les algorithmes."
+    },
+    "de": {
+      "title": "Elektronikingenieur & Softwareentwickler",
+      "bio": "Elektronikingenieur mit umfangreicher Erfahrung in Entwicklung und Design von Hardware und Software, mit Fokus auf eingebettete Systeme und Algorithmen."
+    }
+  }
+}

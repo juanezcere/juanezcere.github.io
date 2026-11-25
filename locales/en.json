@@ -1,0 +1,71 @@
+{
+  "app": {
+    "name": "X-Folio Series X",
+    "phaseTitle": "Phase 5: views and final polish",
+    "phaseDescription": "Detail, filterable catalog, advanced settings, and accessibility.",
+    "loadError": "The application data could not be loaded."
+  },
+  "nav": {
+    "label": "Primary navigation",
+    "home": "Home",
+    "about": "About me",
+    "projects": "Projects",
+    "settings": "Settings"
+  },
+  "controls": {
+    "theme": "Accent color",
+    "themeTitle": "Accent color",
+    "language": "Language",
+    "languageTitle": "Language",
+    "mode": "Mode"
+  },
+  "home": {
+    "explore": "Explore",
+    "allProjects": "All projects",
+    "profile": "Profile",
+    "aboutMe": "About me & stack",
+    "featured": "Featured",
+    "customize": "Customize",
+    "glassSettings": "Theme & glass",
+    "avatarLabel": "Interactive 3D avatar",
+    "avatarLoading": "Loading avatar... {{percent}}%",
+    "avatarError": "Could not load the 3D avatar"
+  },
+  "about": {
+    "heading": "About me — architecture & design",
+    "email": "Email",
+    "resume": "Download CV",
+    "stack": "Stack",
+    "contact": "Contact"
+  },
+  "projects": {
+    "heading": "Full project catalog",
+    "carouselLabel": "Project carousel",
+    "previous": "Previous project",
+    "next": "Next project",
+    "empty": "No projects available",
+    "emptyDescription": "Add projects in public/projects.json.",
+    "filterByTechnology": "Filter by technology",
+    "clearFilters": "Clear filters",
+    "resultCount": "Results: {{count}}",
+    "noMatches": "No matches",
+    "noMatchesDescription": "Try another combination of technologies.",
+    "repository": "Repository",
+    "demo": "Live demo",
+    "openProject": "Open details for {{title}}",
+    "close": "Close"
+  },
+  "settings": {
+    "heading": "System settings",
+    "description": "Customize the 7 accent colors, the light/dark mode, and the interface language.",
+    "toggleMode": "Toggle light / dark mode",
+    "themeDescription": "Choose the accent color of the interface.",
+    "modeTitle": "Appearance mode",
+    "modeDescription": "Switch between light and dark theme.",
+    "darkMode": "Dark mode",
+    "lightMode": "Light mode",
+    "languageDescription": "Select the interface language.",
+    "reset": "Reset preferences",
+    "resetDescription": "Return to the original theme, dark mode, Spanish, and no active project."
+  }
+}

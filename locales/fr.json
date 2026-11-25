@@ -1,0 +1,71 @@
+{
+  "app": {
+    "name": "X-Folio Series X",
+    "phaseTitle": "Phase 5 : vues et finitions",
+    "phaseDescription": "Détail, catalogue filtrable, paramètres avancés et accessibilité.",
+    "loadError": "Les données de l’application n’ont pas pu être chargées."
+  },
+  "nav": {
+    "label": "Navigation principale",
+    "home": "Accueil",
+    "about": "À propos",
+    "projects": "Projets",
+    "settings": "Paramètres"
+  },
+  "controls": {
+    "theme": "Couleur d’accent",
+    "themeTitle": "Couleur d’accent",
+    "language": "Langue",
+    "languageTitle": "Langue",
+    "mode": "Mode"
+  },
+  "home": {
+    "explore": "Explorer",
+    "allProjects": "Tous les projets",
+    "profile": "Profil",
+    "aboutMe": "À propos & stack",
+    "featured": "En vedette",
+    "customize": "Personnaliser",
+    "glassSettings": "Thème & verre",
+    "avatarLabel": "Avatar 3D interactif",
+    "avatarLoading": "Chargement de l'avatar... {{percent}}%",
+    "avatarError": "Impossible de charger l'avatar 3D"
+  },
+  "about": {
+    "heading": "À propos — architecture & design",
+    "email": "E-mail",
+    "resume": "Télécharger le CV",
+    "stack": "Stack",
+    "contact": "Contact"
+  },
+  "projects": {
+    "heading": "Catalogue complet des projets",
+    "carouselLabel": "Carrousel de projets",
+    "previous": "Projet précédent",
+    "next": "Projet suivant",
+    "empty": "Aucun projet disponible",
+    "emptyDescription": "Ajoutez des projets dans public/projects.json.",
+    "filterByTechnology": "Filtrer par technologie",
+    "clearFilters": "Effacer les filtres",
+    "resultCount": "Résultats : {{count}}",
+    "noMatches": "Aucun résultat",
+    "noMatchesDescription": "Essayez une autre combinaison de technologies.",
+    "repository": "Dépôt",
+    "demo": "Voir en ligne",
+    "openProject": "Ouvrir le détail de {{title}}",
+    "close": "Fermer"
+  },
+  "settings": {
+    "heading": "Paramètres système",
+    "description": "Personnalisez les 7 couleurs d’accent, le mode clair/sombre et la langue de l’interface.",
+    "toggleMode": "Basculer mode clair / sombre",
+    "themeDescription": "Choisissez la couleur d’accent de l’interface.",
+    "modeTitle": "Mode d’apparence",
+    "modeDescription": "Basculez entre thème clair et sombre.",
+    "darkMode": "Mode sombre",
+    "lightMode": "Mode clair",
+    "languageDescription": "Sélectionnez la langue de l’interface.",
+    "reset": "Réinitialiser les préférences",
+    "resetDescription": "Retour au thème d’origine, mode sombre, espagnol et aucun projet actif."
+  }
+}

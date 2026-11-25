@@ -1,0 +1,172 @@
+[
+  {
+    "id": "nebula-cloud-os",
+    "featured": true,
+    "year": 2025,
+    "technologies": ["React 19", "TypeScript", "Vite", "WebSockets"],
+    "imageUrl": "/images/projects/nebula-cloud-os.jpg",
+    "translations": {
+      "es": {
+        "title": "Nebula Cloud OS",
+        "category": "SISTEMA OPERATIVO WEB",
+        "description": "Sistema operativo web con gestión de ventanas translúcidas, sistema de archivos virtual y sincronización en tiempo real."
+      },
+      "en": {
+        "title": "Nebula Cloud OS",
+        "category": "WEB OPERATING SYSTEM",
+        "description": "Web operating system with translucent window management, a virtual file system, and real-time synchronization."
+      },
+      "pt": {
+        "title": "Nebula Cloud OS",
+        "category": "SISTEMA OPERACIONAL WEB",
+        "description": "Sistema operacional web com gerenciamento de janelas translúcidas, sistema de arquivos virtual e sincronização em tempo real."
+      },
+      "fr": {
+        "title": "Nebula Cloud OS",
+        "category": "SYSTÈME D'EXPLOITATION WEB",
+        "description": "Système d'exploitation web avec gestion de fenêtres translucides, système de fichiers virtuel et synchronisation en temps réel."
+      },
+      "de": {
+        "title": "Nebula Cloud OS",
+        "category": "WEB-BETRIEBSSYSTEM",
+        "description": "Web-Betriebssystem mit transluzenter Fensterverwaltung, virtuellem Dateisystem und Echtzeitsynchronisierung."
+      }
+    }
+  },
+  {
+    "id": "aether-analytics",
+    "featured": true,
+    "year": 2024,
+    "technologies": ["TypeScript", "Canvas API", "Tailwind", "Clean Arch"],
+    "imageUrl": "/images/projects/aether-analytics.jpg",
+    "translations": {
+      "es": {
+        "title": "Aether Analytics",
+        "category": "DASHBOARD FINTECH",
+        "description": "Plataforma de visualización financiera de baja latencia con motores gráficos WebGL y arquitectura limpia por capas."
+      },
+      "en": {
+        "title": "Aether Analytics",
+        "category": "FINTECH DASHBOARD",
+        "description": "Low-latency financial visualization platform with WebGL graphics engines and clean layered architecture."
+      },
+      "pt": {
+        "title": "Aether Analytics",
+        "category": "DASHBOARD FINTECH",
+        "description": "Plataforma de visualização financeira de baixa latência com mecanismos gráficos WebGL e arquitetura limpa em camadas."
+      },
+      "fr": {
+        "title": "Aether Analytics",
+        "category": "TABLEAU DE BORD FINTECH",
+        "description": "Plateforme de visualisation financière à faible latence avec moteurs graphiques WebGL et architecture propre en couches."
+      },
+      "de": {
+        "title": "Aether Analytics",
+        "category": "FINTECH-DASHBOARD",
+        "description": "Finanzvisualisierungsplattform mit geringer Latenz, WebGL-Grafik-Engines und sauberer Schichtenarchitektur."
+      }
+    }
+  },
+  {
+    "id": "vortex-audio-engine",
+    "featured": true,
+    "year": 2024,
+    "technologies": ["Web Audio API", "React", "TypeScript", "GLSL"],
+    "imageUrl": "/images/projects/vortex-audio-engine.jpg",
+    "translations": {
+      "es": {
+        "title": "Vortex Audio Engine",
+        "category": "AUDIO WEB • DSP",
+        "description": "Sintetizador modular en el navegador con visualización de espectro en tiempo real y exportación de pistas."
+      },
+      "en": {
+        "title": "Vortex Audio Engine",
+        "category": "WEB AUDIO • DSP",
+        "description": "Modular browser synthesizer with real-time spectrum visualization and track export."
+      },
+      "pt": {
+        "title": "Vortex Audio Engine",
+        "category": "ÁUDIO WEB • DSP",
+        "description": "Sintetizador modular no navegador com visualização de espectro em tempo real e exportação de faixas."
+      },
+      "fr": {
+        "title": "Vortex Audio Engine",
+        "category": "AUDIO WEB • DSP",
+        "description": "Synthétiseur modulaire dans le navigateur avec visualisation du spectre en temps réel et exportation de pistes."
+      },
+      "de": {
+        "title": "Vortex Audio Engine",
+        "category": "WEB-AUDIO • DSP",
+        "description": "Modularer Browser-Synthesizer mit Echtzeit-Spektrumanzeige und Spurexport."
+      }
+    }
+  },
+  {
+    "id": "chrono-task-ai",
+    "featured": false,
+    "year": 2023,
+    "technologies": ["Vite", "React", "Zustand", "REST API"],
+    "imageUrl": "/images/projects/chrono-task-ai.jpg",
+    "translations": {
+      "es": {
+        "title": "ChronoTask AI",
+        "category": "PRODUCTIVIDAD",
+        "description": "Gestor inteligente de sprints y flujos de trabajo con automatización de tareas y modo enfoque inmersivo."
+      },
+      "en": {
+        "title": "ChronoTask AI",
+        "category": "PRODUCTIVITY",
+        "description": "Smart sprint and workflow manager with task automation and immersive focus mode."
+      },
+      "pt": {
+        "title": "ChronoTask AI",
+        "category": "PRODUTIVIDADE",
+        "description": "Gerenciador inteligente de sprints e fluxos de trabalho com automação de tarefas e modo de foco imersivo."
+      },
+      "fr": {
+        "title": "ChronoTask AI",
+        "category": "PRODUCTIVITÉ",
+        "description": "Gestionnaire intelligent de sprints et de flux de travail avec automatisation des tâches et mode concentration immersif."
+      },
+      "de": {
+        "title": "ChronoTask AI",
+        "category": "PRODUKTIVITÄT",
+        "description": "Intelligenter Sprint- und Workflow-Manager mit Aufgabenautomatisierung und immersivem Fokusmodus."
+      }
+    }
+  },
+  {
+    "id": "solstice-design-system",
+    "featured": false,
+    "year": 2023,
+    "technologies": ["TypeScript", "CSS Variables", "Storybook", "ARIA"],
+    "imageUrl": "/images/projects/solstice-design-system.jpg",
+    "translations": {
+      "es": {
+        "title": "Solstice Design System",
+        "category": "BIBLIOTECA UI",
+        "description": "Librería de componentes accesibles con soporte nativo para Glassmorphism, tokens semánticos y temas dinámicos."
+      },
+      "en": {
+        "title": "Solstice Design System",
+        "category": "UI LIBRARY",
+        "description": "Accessible component library with native support for Glassmorphism, semantic tokens, and dynamic themes."
+      },
+      "pt": {
+        "title": "Solstice Design System",
+        "category": "BIBLIOTECA UI",
+        "description": "Biblioteca de componentes acessíveis com suporte nativo a Glassmorphism, tokens semânticos e temas dinâmicos."
+      },
+      "fr": {
+        "title": "Solstice Design System",
+        "category": "BIBLIOTHÈQUE UI",
+        "description": "Bibliothèque de composants accessibles avec prise en charge native du Glassmorphism, des tokens sémantiques et des thèmes dynamiques."
+      },
+      "de": {
+        "title": "Solstice Design System",
+        "category": "UI-BIBLIOTHEK",
+        "description": "Barrierefreie Komponentenbibliothek mit nativer Unterstützung für Glassmorphism, semantische Tokens und dynamische Themes."
+      }
+    }
+  }
+]

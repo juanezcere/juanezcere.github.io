@@ -1,0 +1,71 @@
+{
+  "app": {
+    "name": "X-Folio Series X",
+    "phaseTitle": "Phase 5: Ansichten und Feinschliff",
+    "phaseDescription": "Detail, filterbarer Katalog, erweiterte Einstellungen und Barrierefreiheit.",
+    "loadError": "Die Anwendungsdaten konnten nicht geladen werden."
+  },
+  "nav": {
+    "label": "Hauptnavigation",
+    "home": "Start",
+    "about": "Über mich",
+    "projects": "Projekte",
+    "settings": "Einstellungen"
+  },
+  "controls": {
+    "theme": "Akzentfarbe",
+    "themeTitle": "Akzentfarbe",
+    "language": "Sprache",
+    "languageTitle": "Sprache",
+    "mode": "Modus"
+  },
+  "home": {
+    "explore": "Entdecken",
+    "allProjects": "Alle Projekte",
+    "profile": "Profil",
+    "aboutMe": "Über mich & Stack",
+    "featured": "Empfohlen",
+    "customize": "Anpassen",
+    "glassSettings": "Design & Glas",
+    "avatarLabel": "Interaktiver 3D-Avatar",
+    "avatarLoading": "Avatar wird geladen... {{percent}}%",
+    "avatarError": "3D-Avatar konnte nicht geladen werden"
+  },
+  "about": {
+    "heading": "Über mich — Architektur & Design",
+    "email": "E-Mail",
+    "resume": "CV herunterladen",
+    "stack": "Stack",
+    "contact": "Kontakt"
+  },
+  "projects": {
+    "heading": "Vollständiger Projektkatalog",
+    "carouselLabel": "Projektkarussell",
+    "previous": "Vorheriges Projekt",
+    "next": "Nächstes Projekt",
+    "empty": "Keine Projekte verfügbar",
+    "emptyDescription": "Füge Projekte in public/projects.json hinzu.",
+    "filterByTechnology": "Nach Technologie filtern",
+    "clearFilters": "Filter zurücksetzen",
+    "resultCount": "Ergebnisse: {{count}}",
+    "noMatches": "Keine Treffer",
+    "noMatchesDescription": "Versuche eine andere Kombination von Technologien.",
+    "repository": "Repository",
+    "demo": "Live-Demo",
+    "openProject": "Details von {{title}} öffnen",
+    "close": "Schließen"
+  },
+  "settings": {
+    "heading": "Systemeinstellungen",
+    "description": "Passe die 7 Akzentfarben, den Hell-/Dunkelmodus und die Sprache der Oberfläche an.",
+    "toggleMode": "Hell- / Dunkelmodus wechseln",
+    "themeDescription": "Wähle die Akzentfarbe der Oberfläche.",
+    "modeTitle": "Erscheinungsmodus",
+    "modeDescription": "Wechsle zwischen hellem und dunklem Design.",
+    "darkMode": "Dunkelmodus",
+    "lightMode": "Hellmodus",
+    "languageDescription": "Wähle die Sprache der Oberfläche.",
+    "reset": "Einstellungen zurücksetzen",
+    "resetDescription": "Zurück zum Originaldesign, Dunkelmodus, Spanisch und ohne aktives Projekt."
+  }
+}
